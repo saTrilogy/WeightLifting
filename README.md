@@ -1,2 +1,4 @@
 # WeightLifting
-COurseera Practical Machine Learning Project
+Courseera Practical Machine Learning Project.
+
+Repository 
